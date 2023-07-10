@@ -47,7 +47,7 @@ public class EmpController {
 	@DeleteMapping("/deleteEmployee/{id}")
 	public String deleteEmployee(@PathVariable("id") int id) {
 		empService.deleteEmp(id);
-		return "Deleted successfully!!!";
+		return "Employee Deleted successfully!!!";
 	}
 	
 	@PutMapping("/updateEmployeeById/{id}")
