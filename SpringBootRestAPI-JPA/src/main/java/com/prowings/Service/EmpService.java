@@ -23,8 +23,8 @@ public class EmpService {
 		return elist;
 	}
 	
-	public Employee getEmpById(int id) {
-		Employee em=empDao.findById(id);
+	public Optional<Employee> getEmpById(int id) {
+		Optional<Employee> em=empDao.findById(id);
 		return em;
 	}
 	

@@ -1,6 +1,7 @@
 package com.prowings.Controller;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -31,8 +32,8 @@ public class EmpController {
 	}
 	
 	@GetMapping("/getEmployeeById/{id}")
-	public Employee getEmployeeById(@PathVariable("id") int id) {
-		Employee em= empService.getEmpById(id);
+	public Optional<Employee> getEmployeeById(@PathVariable("id") int id) {
+		Optional<Employee> em= empService.getEmpById(id);
 		return em;
 	}
 	
@@ -41,6 +42,7 @@ public class EmpController {
 		String s=null;
 		System.out.println(s.charAt(0));
 		Employee em =empService.addEmp(emp);
+		System.out.println("changes updated");
 		return em;
 	}
 	
@@ -53,7 +55,8 @@ public class EmpController {
 	@PutMapping("/updateEmployeeById/{id}")
 	public String updateEmployeeById(@RequestBody Employee emp,@PathVariable("id") int id) {
 		empService.updateEmp(emp, id);
-		return "Updated successfully!!!";
+		System.out.println("changes done");
+		return "Employee successfully updated!!!";
 	}
 	
 }
