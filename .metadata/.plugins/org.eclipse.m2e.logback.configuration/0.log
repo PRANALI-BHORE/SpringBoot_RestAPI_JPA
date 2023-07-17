@@ -1,0 +1,121 @@
+2023-07-10 21:51:26,521 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-10 21:51:54,716 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prowings:SpringBootRestAPI-JPA:0.0.1-SNAPSHOT @ C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\pom.xml.
+2023-07-10 21:51:57,479 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootRestAPI-JPA/src/main/java
+2023-07-10 21:51:57,479 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootRestAPI-JPA/src/main/resources
+2023-07-10 21:51:57,483 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootRestAPI-JPA/src/main/resources
+2023-07-10 21:51:57,483 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootRestAPI-JPA/src/test/java
+2023-07-10 21:52:03,213 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-07-10 21:52:04,631 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-10 21:52:04,631 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-10 21:52:04,635 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-10 21:52:04,646 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-10 21:52:04,650 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-10 21:52:04,650 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-10 21:52:04,650 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-10 21:52:26,874 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-10 21:52:26,874 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-10 21:52:26,877 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-10 21:52:26,877 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-10 21:52:26,880 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-10 21:52:26,880 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-10 21:52:26,880 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-10 21:52:44,464 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-10 21:52:44,464 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-10 21:52:44,468 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-10 21:52:44,484 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-10 21:52:44,488 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-10 21:52:44,488 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-10 21:52:44,489 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-11 20:32:59,133 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-11 20:33:13,128 [Worker-3: Launching Executing clean in C__Users_pradnya_Desktop_java_code_GitRepository_SpringBoot_SpringBoot_RestAPI_JPA_SpringBootRestAPI-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA
+2023-07-11 20:33:13,137 [Worker-3: Launching Executing clean in C__Users_pradnya_Desktop_java_code_GitRepository_SpringBoot_SpringBoot_RestAPI_JPA_SpringBootRestAPI-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always -Dstyle.color=always
+2023-07-11 20:33:16,923 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:33:16,923 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:33:16,926 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-11 20:33:16,938 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-11 20:33:16,942 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:33:16,942 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:33:16,942 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-11 20:33:28,170 [Worker-2: Launching Executing install in C__Users_pradnya_Desktop_java_code_GitRepository_SpringBoot_SpringBoot_RestAPI_JPA_SpringBootRestAPI-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA
+2023-07-11 20:33:28,170 [Worker-2: Launching Executing install in C__Users_pradnya_Desktop_java_code_GitRepository_SpringBoot_SpringBoot_RestAPI_JPA_SpringBootRestAPI-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always -Dstyle.color=always
+2023-07-11 20:33:32,015 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:33:32,016 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:33:32,019 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-11 20:33:32,022 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-11 20:33:32,026 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:33:32,026 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:33:32,026 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-11 20:34:18,606 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:34:18,606 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:34:18,607 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-11 20:34:18,617 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-11 20:34:18,620 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:34:18,621 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:34:18,621 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-11 20:34:41,432 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:34:41,432 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:34:41,433 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-11 20:34:41,462 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-11 20:34:41,465 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:34:41,465 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:34:41,465 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-11 20:34:56,211 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-11 20:34:56,691 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prowings:SpringBootRestAPI-JPA:0.0.1-SNAPSHOT @ C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\pom.xml.
+2023-07-11 20:34:57,329 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootRestAPI-JPA/src/main/java
+2023-07-11 20:34:57,330 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootRestAPI-JPA/src/main/resources
+2023-07-11 20:34:57,330 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootRestAPI-JPA/src/main/resources
+2023-07-11 20:34:57,331 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootRestAPI-JPA/src/test/java
+2023-07-11 20:34:57,601 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-07-11 20:34:58,526 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:34:58,527 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:34:58,527 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-11 20:34:58,539 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-11 20:34:58,542 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:34:58,542 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:34:58,543 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-11 20:38:29,635 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-11 20:38:29,879 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prowings:SpringBootRestAPI-JPA:0.0.1-SNAPSHOT @ C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\pom.xml.
+2023-07-11 20:38:30,267 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootRestAPI-JPA/src/main/java
+2023-07-11 20:38:30,267 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootRestAPI-JPA/src/main/resources
+2023-07-11 20:38:30,267 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootRestAPI-JPA/src/main/resources
+2023-07-11 20:38:30,268 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootRestAPI-JPA/src/test/java
+2023-07-11 20:38:30,528 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-11 20:38:31,442 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:38:31,443 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:38:31,443 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-11 20:38:31,456 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-11 20:38:31,458 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-11 20:38:31,459 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-11 20:38:31,459 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-11 20:38:43,091 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-07-11 20:38:52,164 [Worker-9: Launching SpringBootRestAPI-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA
+2023-07-11 20:38:52,164 [Worker-9: Launching SpringBootRestAPI-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always -Dstyle.color=always
+2023-07-17 21:47:29,785 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-17 21:52:47,938 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-17 21:52:47,939 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-17 21:52:47,945 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-17 21:52:47,961 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-17 21:52:47,966 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-17 21:52:47,966 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-17 21:52:47,966 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-17 21:53:01,070 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-17 21:53:01,070 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-17 21:53:01,072 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-17 21:53:01,081 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-17 21:53:01,088 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-17 21:53:01,089 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-17 21:53:01,089 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-17 21:53:35,070 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-17 21:53:35,070 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-17 21:53:35,072 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-17 21:53:35,079 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-17 21:53:35,081 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-17 21:53:35,081 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-17 21:53:35,081 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
+2023-07-17 21:54:55,199 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-17 21:54:55,199 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-17 21:54:55,200 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-17 21:54:55,279 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-17 21:54:55,284 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-17 21:54:55,284 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-07-17 21:54:55,284 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pradnya\Desktop\java_code\GitRepository\SpringBoot\SpringBoot_RestAPI_JPA\SpringBootRestAPI-JPA\src\test\resources
